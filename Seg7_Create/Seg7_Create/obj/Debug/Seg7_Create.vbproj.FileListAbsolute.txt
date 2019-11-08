@@ -1,0 +1,10 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\bin\Debug\Seg7_Create.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\bin\Debug\Seg7_Create.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\bin\Debug\Seg7_Create.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\bin\Debug\Seg7_Create.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\obj\Debug\Seg7_Create.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\obj\Debug\Seg7_Create.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\obj\Debug\Seg7_Create.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\obj\Debug\Seg7_Create.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\obj\Debug\Seg7_Create.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\atmega8\Seg7_Create\Seg7_Create\obj\Debug\Seg7_Create.pdb
